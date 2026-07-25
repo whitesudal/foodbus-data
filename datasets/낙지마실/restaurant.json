@@ -1,0 +1,23 @@
+{
+  "name": "낙지마실",
+  "address": "경북 경주시 북군길 9",
+  "region": "경주",
+  "category": "낙지요리",
+  "phone": "",
+  "hours": "",
+  "description": "한식 낙지요리 전문점",
+  "url": "",
+  "menus": [
+    {
+      "name": "낙지볶음",
+      "price": "13,000원"
+    },
+    {
+      "name": "낙지탕탕이",
+      "price": "15,000원"
+    }
+  ],
+  "photos": [],
+  "updated_at": "2026-07-25 22:50",
+  "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
+}
