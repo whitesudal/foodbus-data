@@ -5,7 +5,7 @@
   "category": "소고기",
   "phone": "02-479-2224",
   "hours": "",
-  "description": "",
+  "description": "강남 영동시장의 한우 정육식당",
   "url": "",
   "menus": [
     {
@@ -25,6 +25,52 @@
   ],
   "place_intro": "",
   "photos": [],
-  "updated_at": "2026-08-20 08:26",
+  "translations": {
+    "zh-CN": {
+      "name": "늘푸른정육식당(Neulpureun Jeongyuk Sikdang)",
+      "category": "牛肉",
+      "menus": [
+        {
+          "name": "韩牛拼盘(500克)",
+          "price": "89,000韩元"
+        }
+      ],
+      "intro": "这是位于江南永东市场的韩牛肉餐厅。提供新鲜的韩牛肉，口味独特。"
+    },
+    "zh-TW": {
+      "name": "늘푸른正肉食堂 (Neulpureun Jeongyuk Sikdang)",
+      "category": "牛肉",
+      "menus": [
+        {
+          "name": "韓牛拼盤特選 (500g)",
+          "price": "89,000元"
+        }
+      ],
+      "intro": "位於江南的永東市場，專賣韓牛的正肉食堂。"
+    },
+    "ja": {
+      "name": "ヌルプルンジョンユクシッタン (늘푸른정육식당)",
+      "category": "牛肉",
+      "menus": [
+        {
+          "name": "韓牛盛り合わせスペシャル（500g）",
+          "price": "89,000ウォン"
+        }
+      ],
+      "intro": "江南の永東市場にある韓牛専門の肉料理店です。"
+    },
+    "en": {
+      "name": "Neulpureun Jeongyuk Sikdang (늘푸른정육식당)",
+      "category": "Beef",
+      "menus": [
+        {
+          "name": "Hanwoo Mixed Special (500g)",
+          "price": "89,000 KRW"
+        }
+      ],
+      "intro": "A Hanwoo meat restaurant located in Gangnam's Yeongdong Market."
+    }
+  },
+  "updated_at": "2026-08-20 09:54",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
