@@ -5,12 +5,58 @@
   "category": "한식",
   "phone": "",
   "hours": "",
-  "description": "",
+  "description": "서울 상암동에 위치한 소고기구이 전문 한식당",
   "url": "",
   "menus": [],
   "faq": [],
   "place_intro": "",
   "photos": [],
-  "updated_at": "2026-08-20 08:29",
+  "translations": {
+    "zh-CN": {
+      "name": "排骨集(배꼽집)",
+      "category": "韩餐",
+      "menus": [
+        {
+          "name": "牛肉烤肉",
+          "price": "10000 韩元/KRW"
+        }
+      ],
+      "intro": "这是一家位于首尔上岩洞的牛肉烤肉专门店。"
+    },
+    "zh-TW": {
+      "name": "排骨屋 (배꼽집 본점)",
+      "category": "韓式料理",
+      "menus": [
+        {
+          "name": "牛肉燒烤",
+          "price": "20,000 韓元"
+        }
+      ],
+      "intro": "這是一家位於首爾上岩洞的專門燒烤牛肉的韓式餐廳。"
+    },
+    "ja": {
+      "name": "ペッコジプ ホンジョン (배꼽집 본점)",
+      "category": "韓国料理",
+      "menus": [
+        {
+          "name": "牛肉焼き",
+          "price": "20,000ウォン/KRW"
+        }
+      ],
+      "intro": "ソウルの上岩洞に位置する牛肉焼き専門の韓国料理店です。"
+    },
+    "en": {
+      "name": "Baekkopjip (배꼽집 본점)",
+      "category": "Korean Cuisine",
+      "menus": [
+        {
+          "name": "Grilled Beef",
+          "price": "30,000 KRW"
+        }
+      ],
+      "intro": "Located in Sangam-dong, Seoul, this restaurant specializes in grilled beef dishes."
+    }
+  },
+  "updated_at": "2026-08-20 09:54",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
