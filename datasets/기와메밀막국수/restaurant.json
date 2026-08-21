@@ -9,9 +9,34 @@
   "url": "",
   "menus": [
     {
-      "name": "메밀막국수 (대표 메뉴)",
-      "price": "",
-      "desc": "시원하고 깔끔한 메밀막국수 — 가격은 매장 문의(054-742-4477)"
+      "name": "물막국수 (대표 메뉴)",
+      "price": "9,000원",
+      "desc": "한우사골과 10여 가지 재료로 깊이 우려내어 숙성시킨 육수로 만든 기와막국수 대표메뉴"
+    },
+    {
+      "name": "비빔막국수",
+      "price": "9,000원",
+      "desc": "10여 가지 재료와 과일로 만든 달큰 매콤한 비빔소스가 특징"
+    },
+    {
+      "name": "곰국시",
+      "price": "10,000원",
+      "desc": "한우사골을 12시간 이상 고아낸 진한 곰국에 얇게 뽑아낸 면을 말아 냅니다"
+    },
+    {
+      "name": "수육 소",
+      "price": "18,000원",
+      "desc": "최상급 생삼겹살을 과일된장 육장에 삶아냅니다 (小)"
+    },
+    {
+      "name": "수육 중",
+      "price": "27,000원",
+      "desc": "최상급 생삼겹살을 과일된장 육장에 삶아냅니다 (中)"
+    },
+    {
+      "name": "수육 대",
+      "price": "36,000원",
+      "desc": "최상급 생삼겹살을 과일된장 육장에 삶아냅니다 (大)"
     }
   ],
   "faq": [],
@@ -23,46 +48,126 @@
       "category": "冷面",
       "menus": [
         {
-          "name": "荞麦冷面",
-          "price": "8,000韩元/KRW"
+          "name": "水冷面",
+          "price": "9,000韩元/KRW"
+        },
+        {
+          "name": "拌冷面",
+          "price": "9,000韩元/KRW"
+        },
+        {
+          "name": "牛骨汤面",
+          "price": "10,000韩元/KRW"
+        },
+        {
+          "name": "猪肉(小)",
+          "price": "18,000韩元/KRW"
+        },
+        {
+          "name": "猪肉(中)",
+          "price": "27,000韩元/KRW"
+        },
+        {
+          "name": "猪肉(大)",
+          "price": "36,000韩元/KRW"
         }
       ],
-      "intro": "这是一家位于庆州分黄寺和黄龙寺附近的荞麦冷面专业韩餐厅。提供店内用餐和外带服务（不提供送餐）。"
+      "intro": "这是一家位于庆州分黄寺和黄龙寺附近的荞麦冷面专门店。提供堂食和外带服务（不提供送餐）。"
     },
     "zh-TW": {
       "name": "基瓦蕎麥冷麵 (기와메밀막국수)",
       "category": "冷麵",
       "menus": [
         {
-          "name": "蕎麥冷麵 (대표 메뉴)",
-          "price": "8,000 韓元/ウォン/KRW"
+          "name": "水冷麵 (물막국수)",
+          "price": "9,000 韓元"
+        },
+        {
+          "name": "拌冷麵 (비빔막국수)",
+          "price": "9,000 韓元"
+        },
+        {
+          "name": "狗肉冷麵 (곰국시)",
+          "price": "10,000 韓元"
+        },
+        {
+          "name": "豬肉 (小) (수육 소)",
+          "price": "18,000 韓元"
+        },
+        {
+          "name": "豬肉 (中) (수육 중)",
+          "price": "27,000 韓元"
+        },
+        {
+          "name": "豬肉 (大) (수육 대)",
+          "price": "36,000 韓元"
         }
       ],
-      "intro": "這是一家專門提供蕎麥冷麵的韓國餐廳，位於慶州的分黃寺和黃龍寺附近。店內可用餐和外帶，但不提供外送服務。"
+      "intro": "這是一家位於慶州分黃寺和黃龍寺附近的蕎麥冷麵專門韓式餐廳。提供店內用餐和外帶服務（不提供外送）。"
     },
     "ja": {
-      "name": "キワメミルマッククス (기와메밀막국수)",
-      "category": "マッククス (막국수)",
+      "name": "キワメミルマクグクス (기와메밀막국수)",
+      "category": "マクグクス (막국수)",
       "menus": [
         {
-          "name": "そばの冷たい麺 (메밀막국수)",
-          "price": "8,000ウォン/KRW"
+          "name": "水冷麺 (물막국수)",
+          "price": "9,000ウォン/KRW"
+        },
+        {
+          "name": "ビビン冷麺 (비빔막국수)",
+          "price": "9,000ウォン/KRW"
+        },
+        {
+          "name": "スープ冷麺 (곰국시)",
+          "price": "10,000ウォン/KRW"
+        },
+        {
+          "name": "茹で肉 小 (수육 소)",
+          "price": "18,000ウォン/KRW"
+        },
+        {
+          "name": "茹で肉 中 (수육 중)",
+          "price": "27,000ウォン/KRW"
+        },
+        {
+          "name": "茹で肉 大 (수육 대)",
+          "price": "36,000ウォン/KRW"
         }
       ],
-      "intro": "慶州の分황寺・皇龍寺近くにあるそばの冷たい麺専門の韓国料理店です。店内での食事とテイクアウトが可能です（配達なし）。"
+      "intro": "慶州の分황寺・皇龍寺近くにあるそば冷麺専門の韓国料理店です。店内での食事とテイクアウトが可能です（配達はありません）。"
     },
     "en": {
       "name": "Giwa Memil Makguksu (기와메밀막국수)",
-      "category": "Makguksu",
+      "category": "Buckwheat Noodles (막국수)",
       "menus": [
         {
-          "name": "Buckwheat Noodles (대표 메뉴)",
-          "price": "8,000 KRW"
+          "name": "Cold Buckwheat Noodles (물막국수)",
+          "price": "9,000 KRW"
+        },
+        {
+          "name": "Spicy Buckwheat Noodles (비빔막국수)",
+          "price": "9,000 KRW"
+        },
+        {
+          "name": "Beef Bone Soup Noodles (곰국시)",
+          "price": "10,000 KRW"
+        },
+        {
+          "name": "Boiled Pork Small (수육 소)",
+          "price": "18,000 KRW"
+        },
+        {
+          "name": "Boiled Pork Medium (수육 중)",
+          "price": "27,000 KRW"
+        },
+        {
+          "name": "Boiled Pork Large (수육 대)",
+          "price": "36,000 KRW"
         }
       ],
-      "intro": "A specialized Korean restaurant for buckwheat noodles near Bunhwangsa and Hwangnyongsa in Gyeongju. Dine-in and takeout are available (no delivery)."
+      "intro": "This restaurant specializes in buckwheat noodles near the Bunhwangsa and Hwangnyongsa sites in Gyeongju. Dine-in and takeout are available (no delivery)."
     }
   },
-  "updated_at": "2026-08-21 06:13",
+  "updated_at": "2026-08-21 06:20",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
