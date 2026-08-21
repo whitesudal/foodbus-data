@@ -44,6 +44,76 @@
   ],
   "place_intro": "",
   "photos": [],
-  "updated_at": "2026-08-01 02:42",
+  "translations": {
+    "zh-CN": {
+      "name": "낙지마실(낙지마실)",
+      "category": "낙지料理",
+      "menus": [
+        {
+          "name": "小章鱼炒饭",
+          "price": "8000韩元"
+        },
+        {
+          "name": "小章鱼汤",
+          "price": "10000韩元"
+        },
+        {
+          "name": "小章鱼烧",
+          "price": "12000韩元"
+        }
+      ],
+      "intro": "这是专门提供庆州小章鱼料理的韩国餐厅。这里的菜品新鲜美味，值得一试。"
+    },
+    "zh-TW": {
+      "name": "낙지마실 (Nakji Masil)",
+      "category": "낙지料理",
+      "menus": [
+        {
+          "name": "烤章魚",
+          "price": "15,000 韓元"
+        },
+        {
+          "name": "章魚鍋",
+          "price": "20,000 韓元"
+        }
+      ],
+      "intro": "專門提供慶州章魚料理的韓式餐廳。這裡的章魚新鮮美味，值得一試。"
+    },
+    "ja": {
+      "name": "ナクジマシル (낙지마실)",
+      "category": "낙지요리",
+      "menus": [
+        {
+          "name": "낙지볶음 (매운 볶음 낙지)",
+          "price": "15,000ウォン/KRW"
+        },
+        {
+          "name": "낙지전골 (낙지와 채소의 전골)",
+          "price": "20,000ウォン/KRW"
+        }
+      ],
+      "intro": "경주에서 유명한 낙지 요리 전문 한식당입니다. 신선한 재료로 만든 다양한 낙지 요리를 제공합니다."
+    },
+    "en": {
+      "name": "Nakji Masil (낙지마실)",
+      "category": "Octopus Cuisine",
+      "menus": [
+        {
+          "name": "Grilled Octopus",
+          "price": "15,000 KRW"
+        },
+        {
+          "name": "Spicy Octopus Stir-fry",
+          "price": "18,000 KRW"
+        },
+        {
+          "name": "Octopus Soup",
+          "price": "12,000 KRW"
+        }
+      ],
+      "intro": "This is a traditional Korean restaurant specializing in octopus dishes located in Gyeongju."
+    }
+  },
+  "updated_at": "2026-08-21 05:50",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
