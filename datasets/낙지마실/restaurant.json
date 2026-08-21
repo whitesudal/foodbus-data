@@ -5,9 +5,45 @@
   "category": "낙지요리",
   "phone": "054-749-0048",
   "hours": "매일 10:00-21:00 (브레이크타임 15:00-17:00)",
-  "description": "경주 낙지요리 전문 한식당",
+  "description": "'전국 4대 낙지집'으로 소개되는 경주 낙지요리 전문점. 낙지와 한우곱창·흰다리새우를 넣은 낙곱새가 대표 메뉴입니다.",
   "url": "",
-  "menus": [],
+  "menus": [
+    {
+      "name": "낙곱새 (대표메뉴)",
+      "price": "14,000원",
+      "desc": "굵은 낙지와 고소한 한우곱창, 굵은 흰다리새우, 7가지 재료의 특제 양념장이 들어간 대표메뉴"
+    },
+    {
+      "name": "낙지해물전",
+      "price": "19,000원",
+      "desc": "질 좋은 낙지와 굵은 흰다리새우가 푸짐하게 들어간 고소하고 감칠맛 나는 낙지해물파전"
+    },
+    {
+      "name": "낙곱",
+      "price": "14,000원",
+      "desc": "굵은 낙지에 고소한 한우곱창이 듬뿍 들어가 국물맛이 더욱 진하고 푸짐합니다"
+    },
+    {
+      "name": "낙지볶음",
+      "price": "14,000원",
+      "desc": "낙지를 더욱 푸짐하게 즐기고 싶은 분들을 위해 7가지 재료가 들어간 소스와 낙지가 한가득"
+    },
+    {
+      "name": "낙새",
+      "price": "14,000원",
+      "desc": "낙지에 굵은 흰다리새우가 듬뿍 들어가 담백한 국물맛. 곱창보다 새우를 좋아하시는 분들에게 추천"
+    },
+    {
+      "name": "불낙",
+      "price": "14,000원",
+      "desc": "낙지와 호주산 불고기, 다양한 야채, 소스가 어우러진 담백한 맛"
+    },
+    {
+      "name": "함박 스테이크 (어린이 메뉴)",
+      "price": "6,500원",
+      "desc": "떡갈비 햄버그 스테이크에 새콤한 소스, 양배추 샐러드, 스마일 포테이토"
+    }
+  ],
   "faq": [
     {
       "q": "영업시간과 휴무일이 어떻게 되나요?",
@@ -35,7 +71,7 @@
     },
     {
       "q": "대표 메뉴와 가격이 궁금해요.",
-      "a": "경주 보문단지 인근에서 낙지볶음과 낙곱새를 내는 가족 식당입니다."
+      "a": "경주 보문단지 인근에서 낙지볶음과 낙곱새를 내는 가족 식당입니다. 대표 메뉴는 낙곱새 (대표메뉴)(14,000원), 낙지해물전(19,000원), 낙곱(14,000원), 낙지볶음(14,000원), 낙새(14,000원)입니다."
     },
     {
       "q": "결제는 어떻게 하나요?",
@@ -46,74 +82,146 @@
   "photos": [],
   "translations": {
     "zh-CN": {
-      "name": "낙지마실(낙지마실)",
+      "name": "낙지마실(纳基马实)",
       "category": "낙지料理",
       "menus": [
         {
-          "name": "小章鱼炒饭",
-          "price": "8000韩元"
+          "name": "章鱼和牛肚虾炒面(代表菜单)",
+          "price": "14,000韩元/KRW"
         },
         {
-          "name": "小章鱼汤",
-          "price": "10000韩元"
+          "name": "章鱼海鲜煎饼",
+          "price": "19,000韩元/KRW"
         },
         {
-          "name": "小章鱼烧",
-          "price": "12000韩元"
+          "name": "章鱼和牛肚",
+          "price": "14,000韩元/KRW"
+        },
+        {
+          "name": "炒章鱼",
+          "price": "14,000韩元/KRW"
+        },
+        {
+          "name": "章鱼虾",
+          "price": "14,000韩元/KRW"
+        },
+        {
+          "name": "辣章鱼",
+          "price": "14,000韩元/KRW"
+        },
+        {
+          "name": "汉堡牛排(儿童菜单)",
+          "price": "6,500韩元/KRW"
         }
       ],
-      "intro": "这是专门提供庆州小章鱼料理的韩国餐厅。这里的菜品新鲜美味，值得一试。"
+      "intro": "这是被称为'全国四大章鱼店'的庆州章鱼料理专门店。代表菜单是加入章鱼、韩牛肚和白腿虾的章鱼和牛肚虾炒面。"
     },
     "zh-TW": {
       "name": "낙지마실 (Nakji Masil)",
-      "category": "낙지料理",
+      "category": "낙지料理 (章魚料理)",
       "menus": [
         {
-          "name": "烤章魚",
-          "price": "15,000 韓元"
+          "name": "章魚與牛小腸海鮮炒麵",
+          "price": "14,000 KRW"
         },
         {
-          "name": "章魚鍋",
-          "price": "20,000 韓元"
+          "name": "章魚海鮮煎餅",
+          "price": "19,000 KRW"
+        },
+        {
+          "name": "章魚與牛小腸",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "炒章魚",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "章魚與蝦",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "辣炒章魚",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "漢堡牛排 (兒童餐)",
+          "price": "6,500 KRW"
         }
       ],
-      "intro": "專門提供慶州章魚料理的韓式餐廳。這裡的章魚新鮮美味，值得一試。"
+      "intro": "這是一家被介紹為「全國四大章魚店」的慶州章魚料理專門店。代表菜是加入章魚、韓牛小腸和白蝦的章魚與牛小腸海鮮炒麵。"
     },
     "ja": {
       "name": "ナクジマシル (낙지마실)",
-      "category": "낙지요리",
+      "category": "ナクジ料理 (낙지요리)",
       "menus": [
         {
-          "name": "낙지볶음 (매운 볶음 낙지)",
-          "price": "15,000ウォン/KRW"
+          "name": "ナクギョプセ (낙곱새)",
+          "price": "14,000ウォン/KRW"
         },
         {
-          "name": "낙지전골 (낙지와 채소의 전골)",
-          "price": "20,000ウォン/KRW"
+          "name": "ナクジヘムルジョン (낙지해물전)",
+          "price": "19,000ウォン/KRW"
+        },
+        {
+          "name": "ナクギョプ (낙곱)",
+          "price": "14,000ウォン/KRW"
+        },
+        {
+          "name": "ナクジボッケム (낙지볶음)",
+          "price": "14,000ウォン/KRW"
+        },
+        {
+          "name": "ナクセ (낙새)",
+          "price": "14,000ウォン/KRW"
+        },
+        {
+          "name": "ブルナク (불낙)",
+          "price": "14,000ウォン/KRW"
+        },
+        {
+          "name": "ハンバックステーキ (함박 스테이크)",
+          "price": "6,500ウォン/KRW"
         }
       ],
-      "intro": "경주에서 유명한 낙지 요리 전문 한식당입니다. 신선한 재료로 만든 다양한 낙지 요리를 제공합니다."
+      "intro": "全国4大ナクジ店として知られる慶州のナクジ料理専門店です。ナクジと和牛の腸、ホワイトシュリンプを使ったナクギョプセが代表メニューです。"
     },
     "en": {
-      "name": "Nakji Masil (낙지마실)",
+      "name": "Nakjimasil (낙지마실)",
       "category": "Octopus Cuisine",
       "menus": [
         {
-          "name": "Grilled Octopus",
-          "price": "15,000 KRW"
+          "name": "Spicy Octopus and Beef Intestine Stir-fry",
+          "price": "14,000 KRW"
         },
         {
-          "name": "Spicy Octopus Stir-fry",
-          "price": "18,000 KRW"
+          "name": "Octopus and Seafood Pancake",
+          "price": "19,000 KRW"
         },
         {
-          "name": "Octopus Soup",
-          "price": "12,000 KRW"
+          "name": "Octopus and Beef Intestine",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "Stir-fried Octopus",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "Octopus and Shrimp",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "Spicy Grilled Octopus",
+          "price": "14,000 KRW"
+        },
+        {
+          "name": "Hamburger Steak (Children's Menu)",
+          "price": "6,500 KRW"
         }
       ],
-      "intro": "This is a traditional Korean restaurant specializing in octopus dishes located in Gyeongju."
+      "intro": "This restaurant is known as one of the 'Top 4 Octopus Restaurants' in Korea. Their signature dish is the Spicy Octopus and Beef Intestine Stir-fry."
     }
   },
-  "updated_at": "2026-08-21 05:50",
+  "updated_at": "2026-08-21 05:57",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
