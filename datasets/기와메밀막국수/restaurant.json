@@ -1,0 +1,68 @@
+{
+  "name": "기와메밀막국수",
+  "address": "경상북도 경주시 분황로 91",
+  "region": "경주",
+  "category": "막국수",
+  "phone": "054-742-4477",
+  "hours": "매일 11:00~20:00 (브레이크타임 평일 15:30~16:30)",
+  "description": "경주 분황사·황룡사지 인근의 메밀막국수 전문 한식당. 매장 식사와 포장이 가능합니다(배달 없음).",
+  "url": "",
+  "menus": [
+    {
+      "name": "메밀막국수 (대표 메뉴)",
+      "price": "",
+      "desc": "시원하고 깔끔한 메밀막국수 — 가격은 매장 문의(054-742-4477)"
+    }
+  ],
+  "faq": [],
+  "place_intro": "",
+  "photos": [],
+  "translations": {
+    "zh-CN": {
+      "name": "气瓦荞麦冷面(기와메밀막국수)",
+      "category": "冷面",
+      "menus": [
+        {
+          "name": "荞麦冷面",
+          "price": "8,000韩元/KRW"
+        }
+      ],
+      "intro": "这是一家位于庆州分黄寺和黄龙寺附近的荞麦冷面专业韩餐厅。提供店内用餐和外带服务（不提供送餐）。"
+    },
+    "zh-TW": {
+      "name": "基瓦蕎麥冷麵 (기와메밀막국수)",
+      "category": "冷麵",
+      "menus": [
+        {
+          "name": "蕎麥冷麵 (대표 메뉴)",
+          "price": "8,000 韓元/ウォン/KRW"
+        }
+      ],
+      "intro": "這是一家專門提供蕎麥冷麵的韓國餐廳，位於慶州的分黃寺和黃龍寺附近。店內可用餐和外帶，但不提供外送服務。"
+    },
+    "ja": {
+      "name": "キワメミルマッククス (기와메밀막국수)",
+      "category": "マッククス (막국수)",
+      "menus": [
+        {
+          "name": "そばの冷たい麺 (메밀막국수)",
+          "price": "8,000ウォン/KRW"
+        }
+      ],
+      "intro": "慶州の分황寺・皇龍寺近くにあるそばの冷たい麺専門の韓国料理店です。店内での食事とテイクアウトが可能です（配達なし）。"
+    },
+    "en": {
+      "name": "Giwa Memil Makguksu (기와메밀막국수)",
+      "category": "Makguksu",
+      "menus": [
+        {
+          "name": "Buckwheat Noodles (대표 메뉴)",
+          "price": "8,000 KRW"
+        }
+      ],
+      "intro": "A specialized Korean restaurant for buckwheat noodles near Bunhwangsa and Hwangnyongsa in Gyeongju. Dine-in and takeout are available (no delivery)."
+    }
+  },
+  "updated_at": "2026-08-21 06:13",
+  "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
+}
