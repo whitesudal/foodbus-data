@@ -26,26 +26,26 @@
           "price": "13,000韩元"
         }
       ],
-      "intro": "这是专门提供韩式小章鱼料理的餐厅。"
+      "intro": "这是专门提供韩式小章鱼料理的餐厅。欢迎光临！"
     },
     "zh-TW": {
       "name": "낙지마실 (Nakji Masil)",
-      "category": "낙지料理",
+      "category": "章魚料理",
       "menus": [
         {
           "name": "炒章魚",
           "price": "13,000韓元"
         }
       ],
-      "intro": "專門提供韓式章魚料理的餐廳。"
+      "intro": "這是一家專門提供韓式章魚料理的餐廳。"
     },
     "ja": {
       "name": "ナクジマシル (낙지마실)",
-      "category": "ナクジ料理 (낙지요리)",
+      "category": "낙지料理",
       "menus": [
         {
           "name": "炒めたタコ",
-          "price": "13,000ウォン/KRW"
+          "price": "13,000ウォン"
         }
       ],
       "intro": "韓国のタコ料理専門店です。"
@@ -59,9 +59,9 @@
           "price": "13,000 KRW"
         }
       ],
-      "intro": "A restaurant specializing in Korean octopus dishes."
+      "intro": "A specialty restaurant for Korean octopus dishes."
     }
   },
-  "updated_at": "2026-08-22 11:55",
+  "updated_at": "2026-08-22 13:03",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
