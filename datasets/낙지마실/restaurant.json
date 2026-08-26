@@ -18,7 +18,7 @@
   "photos": [],
   "translations": {
     "zh-CN": {
-      "name": "낙지마실(낙지마실)",
+      "name": "낙지마실(낙지马实)",
       "category": "낙子料理",
       "menus": [
         {
@@ -34,17 +34,17 @@
       "menus": [
         {
           "name": "炒章魚",
-          "price": "13,000韓元/KRW"
+          "price": "13,000韓元"
         }
       ],
       "intro": "專門提供韓式章魚料理的餐廳。"
     },
     "ja": {
       "name": "ナクジマシル (낙지마실)",
-      "category": "낙지料理",
+      "category": "ナクジ料理 (낙지요리)",
       "menus": [
         {
-          "name": "炒めたタコ",
+          "name": "炒めたタコ (낙지볶음)",
           "price": "13,000ウォン/KRW"
         }
       ],
@@ -59,9 +59,9 @@
           "price": "13,000 KRW"
         }
       ],
-      "intro": "A specialty restaurant focusing on Korean octopus dishes."
+      "intro": "A Korean restaurant specializing in octopus dishes."
     }
   },
-  "updated_at": "2026-08-25 21:00",
+  "updated_at": "2026-08-26 21:00",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
