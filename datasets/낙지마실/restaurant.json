@@ -41,10 +41,10 @@
     },
     "ja": {
       "name": "ナクジマシル (낙지마실)",
-      "category": "낙지料理",
+      "category": "ナクジ料理 (낙지요리)",
       "menus": [
         {
-          "name": "炒めたタコ",
+          "name": "炒めたタコ (낙지볶음)",
           "price": "13,000ウォン/KRW"
         }
       ],
@@ -59,9 +59,9 @@
           "price": "13,000 KRW"
         }
       ],
-      "intro": "A specialty restaurant focusing on Korean octopus dishes."
+      "intro": "A specialty restaurant for Korean octopus dishes."
     }
   },
-  "updated_at": "2026-09-10 21:00",
+  "updated_at": "2026-09-11 21:00",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
