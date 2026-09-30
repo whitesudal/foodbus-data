@@ -34,10 +34,10 @@
       "menus": [
         {
           "name": "炒章魚",
-          "price": "13,000韓元/KRW"
+          "price": "13,000元/KRW"
         }
       ],
-      "intro": "專門提供韓式章魚料理的餐廳。這裡的菜品新鮮美味。"
+      "intro": "專門提供韓式章魚料理的餐廳。"
     },
     "ja": {
       "name": "ナクジマシル (낙지마실)",
@@ -62,6 +62,6 @@
       "intro": "A Korean restaurant specializing in octopus dishes."
     }
   },
-  "updated_at": "2026-09-29 21:00",
+  "updated_at": "2026-09-30 21:00",
   "source": "FOODBUS AI Dining Studio · foodbus.co.kr"
 }
